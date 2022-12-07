@@ -23,6 +23,5 @@ function multiply(a, b){
 ```
 ## Education
 **University:** Belorussian National Technical University
----
 ## English
 B1
