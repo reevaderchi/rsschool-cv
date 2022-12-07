@@ -1,6 +1,6 @@
-#Vladislav Bartashevich
+# Vladislav Bartashevich
 ***
-##Contacts
+## Contacts
 - **Location:** Minsk, Belarus
 - **Telegram:** @vb_iv
 - **Discord:** @reevaderchi
